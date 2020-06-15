@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.Image-logo {
+    display: none;
+}
+
+.Image-info {
+    width: 100%;
+}
+
+.Image-info h2 {
+    padding: 30px 30px 20px;
+}
